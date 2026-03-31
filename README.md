@@ -125,4 +125,4 @@ This project demonstrates an **end-to-end data analytics pipeline**, including d
 
 ## Screenshot / Demos
 Show what the Dashboard look like.
-Example:
+Example:![Dashboard Preview].(https://github.com/VijayalakshmiDuvuru16/Customer-Behavior-Analysis/blob/main/Dashboard_ss.png)
